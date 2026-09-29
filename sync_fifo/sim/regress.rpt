@@ -1,0 +1,29 @@
+###########################################################
+####              Regression Report                    ####
+###########################################################
+Total testcase run: 18
+Passed            : 18
+Failed            : 0
+Unknown           : 0
+Used time         : 1m 57s
+-----------------------------------------------------------
+Run log detail:
+log/almost_empty_test_946617.log: => Passed
+log/almost_full_test_110638.log: => Passed
+log/fifo_empty_test_314946.log: => Passed
+log/fifo_full_test_459581.log: => Passed
+log/overflow_test_616972.log: => Passed
+log/read_test_712908.log: => Passed
+log/reset_on_fly_empty_test_789162.log: => Passed
+log/reset_on_fly_full_test_291074.log: => Passed
+log/rw_concurrent_almostempty_test_505641.log: => Passed
+log/rw_concurrent_almostfull_test_439951.log: => Passed
+log/rw_concurrent_empty_test_153757.log: => Passed
+log/rw_concurrent_full_test_984710.log: => Passed
+log/rw_concurrent_test_387248.log: => Passed
+log/underflow_test_972131.log: => Passed
+log/write_disable_test_994412.log: => Passed
+log/write_read_test_441801.log: => Passed
+log/write_test_493936.log: => Passed
+log/wr_rd_during_reset_test_534413.log: => Passed
+-----------------------------------------------------------

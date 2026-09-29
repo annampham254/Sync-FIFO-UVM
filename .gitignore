@@ -1,0 +1,28 @@
+﻿# Simulation outputs
+*.log
+*.wlf
+*.vstf
+*.vcd
+transcript
+work/
+*.jou
+*.pb
+
+# QuestaSim / ModelSim
+modelsim.ini
+tr_db.log
+vsim.wlf
+vsim_stacktrace.vstf
+vish_stacktrace.vstf
+
+# Regression reports (keep images, exclude raw logs)
+sim/log/
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
