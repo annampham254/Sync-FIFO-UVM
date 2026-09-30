@@ -17,7 +17,7 @@ The testbench verifies all core FIFO operations including write, read, concurren
 
 ```
 sync_fifo/
-├── rtl/            # FIFO DUT (Verilog)
+├── rtl/            # FIFO DUT (SystemVerilog)
 ├── fifo_vip/       # UVM agent components
 ├── sequences/      # Write, read, concurrent sequences
 ├── tb/             # Environment, scoreboard, coverage
